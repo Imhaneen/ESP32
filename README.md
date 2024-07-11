@@ -7,5 +7,5 @@
 
 
 
-![alt text](<img width="811" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٦ في ٢ ٠٠ ٥٥ ص" src="https://github.com/user-attachments/assets/fcc6138b-d929-4468-95ac-8dfd39a05b6d">
+![imge](<img width="811" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٦ في ٢ ٠٠ ٥٥ ص" src="https://github.com/user-attachments/assets/fcc6138b-d929-4468-95ac-8dfd39a05b6d">
 )
