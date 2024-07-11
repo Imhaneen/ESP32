@@ -6,5 +6,6 @@
 هذي الدائرة الكهربائية تعمل على تشغيل اشارات المرور بشكل تسلسلي بحيث يضل كل مؤشرLED مضاءا لمدة ثانتين قبل التبديل للمصباح التالي.
 
 
-![image](https://github.com/lmhaneen/ESP32/assets/7a79b5f5-d3ab-4f23-8cc4-b441d161ed87)
+
+<img width="811" alt="imge" src="https://github.com/user-attachments/assets/b5a240d9-8114-4c2b-a1f9-f272ed610fc4">
 
