@@ -31,7 +31,7 @@ Wokwi website.
 
 **********
 
-# CIRCUIT DIAGRAM
+# Circuit Diagram
 
 **********
 
