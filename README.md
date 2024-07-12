@@ -1,7 +1,7 @@
-# ESP32 Traffic Light Project.
+# ESP32 Traffic Light Project
 
 ********
-# SIMPLE EXPLANATION
+# Simple Explanation
 
 *******
 A traffic light system with an ESP32 microcontroller would involve connecting the ESP32 to a set of LEDs (red, yellow, and green) to simulate a traffic light. 
