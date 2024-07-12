@@ -1,4 +1,4 @@
-# ESP32 Taffic Light Project.
+# ESP32 Traffic Light Project.
 
 ********
 # SIMPLE EXPLANATION
